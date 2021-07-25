@@ -1,4 +1,4 @@
-# [Anforderungen an einen PC-Arbeitsplatz ermitteln und dokumentieren]
+# Anforderungen an einen PC-Arbeitsplatz ermitteln und dokumentieren
 
 ### Lastenheft und Pflichtenheft
 Um Kundenwünsche und -Anforderungen zu dokumentieren haben sich im Projektmanagement das Lastenheft und das Pflichtenheft etabliert. Was genau ist ein Lastenheft/Pflichtenheft?
@@ -27,7 +27,7 @@ Vorbereitende Schritte für den Start der Lerneinheit
 
 [Step through content in blocks]
 
-## [Thema 1]
+## [Lastenheft]
 
 ### Auftrag:
 
@@ -39,9 +39,15 @@ code blocks
 
 ✅ Zwischentest - stelle offene Fragen, um bisher erlerntes Wissen zu vertiefen
 
-## [Thema 2]
+## [Pflichtenheft]
 
-## [Thema 3]
+## [Hardware von IT-Geräten]
+
+## [Software]
+
+## [Elektrotechnische Grundlagen]
+
+## [Zertifikate, Kennzeichnungen und Prüfsiegel]
 
 🚀 Challenge: Stelle eine herausfordernde Aufgabe, die von den Lernenden kollaborativ gelöst werden soll.
 
