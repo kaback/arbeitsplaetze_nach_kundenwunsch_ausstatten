@@ -2,6 +2,7 @@
 
 ### Lastenheft und Pflichtenheft
 Um Kundenwünsche und -Anforderungen zu dokumentieren haben sich im Projektmanagement das Lastenheft und das Pflichtenheft etabliert. Was genau ist ein Lastenheft/Pflichtenheft?
+
 [![Was ist ein Lastenheft / Pflichtenheft?](https://img.youtube.com/vi/Wim8hgTv_OQ/0.jpg)](https://www.youtube.com/watch?v=Wim8hgTv_OQ)
 
 ## [Pre-lecture quiz](quiz-url)
