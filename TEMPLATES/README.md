@@ -1,6 +1,9 @@
 # [Thema der Lerneinheit]
 
-![hier könnte ein Einführungsvideo verlinkt sein](video-url)
+### Zum Einstieg ins Thema ein Video
+hier beschreibst Du, worum es im Video geht
+
+[![Worum gehts in diesem Video?](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 ## [Pre-lecture quiz](quiz-url)
 
