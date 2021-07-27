@@ -30,6 +30,17 @@ Um Kundenwünsche zu dokumentieren hat sich im Projektmanagement das Lastenheft 
 
 [![Was ist ein Lastenheft](https://img.youtube.com/vi/Wim8hgTv_OQ/0.jpg)](https://www.youtube.com/watch?v=Wim8hgTv_OQ)
 
+### Passt das Lastenheft in die agile Entwicklung?
+Bekannt ist das Lastenheft vor Allem aus dem klassischen Projektmanagement. Hier wird zu Beginn eines Projektes ein Lastenheft erstellt, aus dem später das Pflichtenheft entwickelt wird. Dies Vorgehensweise hat gravierende Nachteile, so ergeben sich einige Anforderungen und Änderungen erst im laufe des Projekts - Anforderungen befinden sich also im stetigen Wandel.
+
+Bei einer Agilen vorgehensweise wird interativ vorgegangen, das beideutet, dass Anforderungen im Wechselspiel mit der laufenden Entwicklung anstatt bereits ganz am Anfang eines Projekts erarbeitet werden.
+
+Wie passt diese agile Herangehensweise zum Lastenheft?
+
+Sehr gut, denn ein initial ausgearbeiteter Plan in Form eines Lastenheftes schafft Sicherheit für Auftraggeber und Auftragnehmer. So lassen sich voraussichtliche Kosten und Aufwände besser abschätzen. 
+
+Lastenhefte haben also auch im agilen Projektmanagement eine wichtige Bedeutung, allerdings werden sie hier weniger ausführlich gestaltet und beschreiben eher nur die Anforderungen an ein erstes Release bzw an einen Prototypen. Weitere Anforderungen werden dann erst von diesem Prototypen abgeleitet. Das Lastenheft wächst dabei von Release zu Release, stellt aber im Falle von Missverständnissen und Unstimmigkeiten immer einen eindeutigen Referenzpunkt für Auftragnehmer und Auftraggeber dar.
+
 ### Auftrag:
 
 Arbeitet im Team daran, den folgenden Code zu verbessern und teilt euer Arbeitsergebnis auf Github:
